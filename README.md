@@ -1,2 +1,2 @@
-# linear_regression_model
+Data science task
 linear regression model
